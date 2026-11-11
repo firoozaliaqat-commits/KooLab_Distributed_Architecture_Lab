@@ -1,0 +1,10 @@
+apiVersion: 1
+providers:
+  - name: KooLab Classroom
+    orgId: 1
+    folder: KooLab Distributed Architecture
+    type: file
+    disableDeletion: true
+    allowUiUpdates: false
+    options:
+      path: /var/lib/grafana/seed-dashboards
